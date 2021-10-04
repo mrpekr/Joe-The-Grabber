@@ -297,13 +297,14 @@ def customwindow():
 	#Sets Window Size
 	root.geometry("400x250")
 
-	#Math Shit For Line 28 and 29
+	#Math Shit
 	Tk_Width = 400
 	Tk_Height = 250
 
 	#Calculates Size Of Screen To Determin Center
 	x_Left = int(root.winfo_screenwidth()/2 - Tk_Width/2)
 	y_Top = int(root.winfo_screenheight()/2 - Tk_Height/2)
+	
 
 	root.title("Error " + windowname + " Has Stoped")
 
