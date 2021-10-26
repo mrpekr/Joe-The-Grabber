@@ -1,6 +1,8 @@
 <img src="https://img.shields.io/github/watchers/mrpekr/Joe-The-Grabber?label=Watchers" alt="shield.png"></a>
 <img src="https://img.shields.io/github/stars/mrpekr/Joe-The-Grabber?label=Stars" alt="shield.png"></a>
 
+Note: Its No Longer Working
+
 #### Joe The Grabber was made by
 Love ❌
 code ✅
